@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Icons/bluetooth_8918161.png</file>
+        <file>Icons/cloud_16367420.png</file>
+        <file>Icons/compass_10308529.png</file>
+        <file>Icons/gear_8419726.png</file>
+        <file>Icons/music_14363309.png</file>
+        <file>Icons/webcam_7739101.png</file>
+    </qresource>
+</RCC>
